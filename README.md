@@ -53,23 +53,10 @@ Saat ini saya fokus belajar dan berkembang di dunia pemrograman sambil menikmati
 ### 🔗 Socials
 
 <div align="center">
-  <a href="mailto:emailkamu@gmail.com">
+  <a href="mailto:awikwokridho@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
   </a>
-  <a href="https://www.instagram.com/usernamekamu">
+  <a href="https://www.instagram.com/disturvw">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" />
   </a>
-  <a href="https://t.me/usernamekamu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" />
-  </a>
 </div>
-
----
-
-### 🟡 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Disturww/Disturww/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Disturww/Disturww/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Disturww/Disturww/output/pacman-contribution-graph.svg">
-</picture>
